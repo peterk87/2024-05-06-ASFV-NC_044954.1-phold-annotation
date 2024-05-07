@@ -1,0 +1,10 @@
+tsv2db phold-NC_044954.1-coding-table-1/foldseek_db/3di.tsv phold-NC_044954.1-coding-table-1/foldseek_db/phold_ss --output-dbtype 0 
+
+MMseqs Version:           	8.ef4e960
+Output database type      	0
+Compressed                	0
+Verbosity                 	3
+
+Output database type: Aminoacid
+Time for merging to phold_ss: 0h 0m 0s 1ms
+Time for processing: 0h 0m 0s 2ms

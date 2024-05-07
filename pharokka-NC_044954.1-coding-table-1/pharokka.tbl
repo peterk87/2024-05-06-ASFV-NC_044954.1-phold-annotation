@@ -1,0 +1,673 @@
+>Feature NC_044954.1
+2	73	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0001
+			transl_table	1
+753	890	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0002
+			transl_table	1
+1020	1163	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0003
+			transl_table	1
+2455	1532	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0004
+			transl_table	1
+2777	3295	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0005
+			transl_table	1
+3655	3404	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0006
+			transl_table	1
+4022	3741	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0007
+			transl_table	1
+5313	4246	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0008
+			transl_table	1
+6348	5539	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0009
+			transl_table	1
+6861	6511	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0010
+			transl_table	1
+7334	6960	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0011
+			transl_table	1
+7878	7516	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0012
+			transl_table	1
+8483	8127	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0013
+			transl_table	1
+9111	8734	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0014
+			transl_table	1
+10239	9865	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0015
+			transl_table	1
+10474	10854	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0016
+			transl_table	1
+11874	11014	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0017
+			transl_table	1
+12584	12069	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0018
+			transl_table	1
+13141	12668	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0019
+			transl_table	1
+13488	13105	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0020
+			transl_table	1
+14881	13721	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0021
+			transl_table	1
+16605	15478	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0022
+			transl_table	1
+17436	17681	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0023
+			transl_table	1
+18733	17927	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0024
+			transl_table	1
+19643	19873	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0025
+			transl_table	1
+19899	20126	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0026
+			transl_table	1
+21237	20242	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0027
+			transl_table	1
+22372	21413	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0028
+			transl_table	1
+23685	22624	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0029
+			transl_table	1
+24802	23735	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0030
+			transl_table	1
+25892	24831	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0031
+			transl_table	1
+26041	27633	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0032
+			transl_table	1
+28731	27682	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0033
+			transl_table	1
+29980	28919	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0034
+			transl_table	1
+31266	30193	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0035
+			transl_table	1
+31541	33115	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0036
+			transl_table	1
+33208	34044	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0037
+			transl_table	1
+34130	34321	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0038
+			transl_table	1
+34322	35842	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0039
+			transl_table	1
+35871	37379	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0040
+			transl_table	1
+37567	39153	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0041
+			transl_table	1
+39560	41080	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0042
+			transl_table	1
+41743	43374	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0043
+			transl_table	1
+44179	43505	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0044
+			transl_table	1
+44540	44854	CDS
+			product	DNA binding protein
+			locus_tag	CBXRCNVH_CDS_0045
+			transl_table	1
+45462	44851	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0046
+			transl_table	1
+45574	45449	CDS
+			product	thymidylate kinase
+			locus_tag	CBXRCNVH_CDS_0047
+			transl_table	1
+45924	46376	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0048
+			transl_table	1
+46872	47687	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0049
+			transl_table	1
+48829	48110	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0050
+			transl_table	1
+51452	48873	CDS
+			product	DNA helicase
+			locus_tag	CBXRCNVH_CDS_0051
+			transl_table	1
+51993	51454	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0052
+			transl_table	1
+52316	52729	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0053
+			transl_table	1
+53746	52790	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0054
+			transl_table	1
+54759	53776	CDS
+			product	ribonucleoside diphosphate reductase small subunit
+			locus_tag	CBXRCNVH_CDS_0055
+			transl_table	1
+54801	57140	CDS
+			product	ribonucleoside-diphosphate reductase large subunit
+			locus_tag	CBXRCNVH_CDS_0056
+			transl_table	1
+57260	57670	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0057
+			transl_table	1
+60965	57657	CDS
+			product	replication
+			locus_tag	CBXRCNVH_CDS_0058
+			transl_table	1
+61117	61746	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0059
+			transl_table	1
+61836	62057	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0060
+			transl_table	1
+62054	62620	CDS
+			product	thymidine kinase
+			locus_tag	CBXRCNVH_CDS_0061
+			transl_table	1
+62661	63098	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0062
+			transl_table	1
+63132	64394	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0063
+			transl_table	1
+68161	64433	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0064
+			transl_table	1
+68240	68491	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0065
+			transl_table	1
+68527	69801	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0066
+			transl_table	1
+70312	70767	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0067
+			transl_table	1
+70776	71261	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0068
+			transl_table	1
+71331	72458	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0069
+			transl_table	1
+72536	73687	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0070
+			transl_table	1
+77489	73740	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0071
+			transl_table	1
+77529	78869	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0072
+			transl_table	1
+78944	79333	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0073
+			transl_table	1
+79619	79389	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0074
+			transl_table	1
+80063	82216	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0075
+			transl_table	1
+83779	83006	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0076
+			transl_table	1
+85185	83758	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0077
+			transl_table	1
+85237	86184	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0078
+			transl_table	1
+86675	86220	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0079
+			transl_table	1
+86746	87060	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0080
+			transl_table	1
+87103	89991	CDS
+			product	DNA primase
+			locus_tag	CBXRCNVH_CDS_0081
+			transl_table	1
+90100	89942	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0082
+			transl_table	1
+93026	90135	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0083
+			transl_table	1
+93345	92986	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0084
+			transl_table	1
+94282	93326	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0085
+			transl_table	1
+95562	94249	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0086
+			transl_table	1
+96078	95575	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0087
+			transl_table	1
+97555	96095	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0088
+			transl_table	1
+98797	97733	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0089
+			transl_table	1
+100652	98808	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0090
+			transl_table	1
+100707	101864	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0091
+			transl_table	1
+103897	101957	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0092
+			transl_table	1
+103937	104314	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0093
+			transl_table	1
+104649	104287	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0094
+			transl_table	1
+105921	104656	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0095
+			transl_table	1
+106477	105950	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0096
+			transl_table	1
+106524	107315	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0097
+			transl_table	1
+107512	107312	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0098
+			transl_table	1
+111540	107518	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0099
+			transl_table	1
+111647	115267	CDS
+			product	DNA polymerase
+			locus_tag	CBXRCNVH_CDS_0100
+			transl_table	1
+115635	115264	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0101
+			transl_table	1
+123165	115738	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0102
+			transl_table	1
+123839	123267	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0103
+			transl_table	1
+123900	125492	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0104
+			transl_table	1
+125495	125737	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0105
+			transl_table	1
+125777	126715	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0106
+			transl_table	1
+127260	126736	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0107
+			transl_table	1
+127310	127498	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0108
+			transl_table	1
+131939	127587	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0109
+			transl_table	1
+133290	132031	CDS
+			product	ATP-dependent DNA ligase
+			locus_tag	CBXRCNVH_CDS_0110
+			transl_table	1
+133356	135962	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0111
+			transl_table	1
+136030	136770	CDS
+			product	nudix hydrolase
+			locus_tag	CBXRCNVH_CDS_0112
+			transl_table	1
+137404	136952	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0113
+			transl_table	1
+137752	137513	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0114
+			transl_table	1
+138951	137944	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0115
+			transl_table	1
+142383	139087	CDS
+			product	DNA helicase
+			locus_tag	CBXRCNVH_CDS_0116
+			transl_table	1
+143075	142722	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0117
+			transl_table	1
+143132	143749	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0118
+			transl_table	1
+144939	143902	CDS
+			product	RecE-like recombination exonuclease
+			locus_tag	CBXRCNVH_CDS_0119
+			transl_table	1
+145490	144939	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0120
+			transl_table	1
+145547	146368	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0121
+			transl_table	1
+146403	149981	CDS
+			product	DNA topoisomerase II large subunit
+			locus_tag	CBXRCNVH_CDS_0122
+			transl_table	1
+151095	150016	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0123
+			transl_table	1
+151130	151657	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0124
+			transl_table	1
+151689	152063	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0125
+			transl_table	1
+152086	153105	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0126
+			transl_table	1
+153117	153452	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0127
+			transl_table	1
+153412	154113	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0128
+			transl_table	1
+154267	154992	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0129
+			transl_table	1
+155884	154985	CDS
+			product	serine-threonine kinase
+			locus_tag	CBXRCNVH_CDS_0130
+			transl_table	1
+157979	155859	CDS
+			product	DNA helicase
+			locus_tag	CBXRCNVH_CDS_0131
+			transl_table	1
+159466	157937	CDS
+			product	DNA helicase
+			locus_tag	CBXRCNVH_CDS_0132
+			transl_table	1
+159582	160586	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0133
+			transl_table	1
+161088	160534	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0134
+			transl_table	1
+161662	161132	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0135
+			transl_table	1
+161693	162964	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0136
+			transl_table	1
+163109	164014	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0137
+			transl_table	1
+164495	164055	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0138
+			transl_table	1
+165617	165018	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0139
+			transl_table	1
+165645	166133	CDS
+			product	dUTPase
+			locus_tag	CBXRCNVH_CDS_0140
+			transl_table	1
+166164	166874	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0141
+			transl_table	1
+166948	167316	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0142
+			transl_table	1
+167345	168235	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0143
+			transl_table	1
+168238	168573	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0144
+			transl_table	1
+169690	168887	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0145
+			transl_table	1
+169842	170522	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0146
+			transl_table	1
+171244	170519	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0147
+			transl_table	1
+172990	172001	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0148
+			transl_table	1
+174090	173449	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0149
+			transl_table	1
+174730	174245	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0150
+			transl_table	1
+175388	174723	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0151
+			transl_table	1
+176298	175549	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0152
+			transl_table	1
+176471	177529	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0153
+			transl_table	1
+179239	177611	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0154
+			transl_table	1
+179786	179361	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0155
+			transl_table	1
+180468	180025	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0156
+			transl_table	1
+180889	180581	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0157
+			transl_table	1
+181417	181106	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0158
+			transl_table	1
+181644	181940	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0159
+			transl_table	1
+182474	181974	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0160
+			transl_table	1
+182802	182566	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0161
+			transl_table	1
+183148	183393	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0162
+			transl_table	1
+183624	184346	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0163
+			transl_table	1
+184877	184323	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0164
+			transl_table	1
+185124	186197	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0165
+			transl_table	1
+186593	186450	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0166
+			transl_table	1
+186860	186723	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0167
+			transl_table	1
+187611	187540	CDS
+			product	hypothetical protein
+			locus_tag	CBXRCNVH_CDS_0168
+			transl_table	1

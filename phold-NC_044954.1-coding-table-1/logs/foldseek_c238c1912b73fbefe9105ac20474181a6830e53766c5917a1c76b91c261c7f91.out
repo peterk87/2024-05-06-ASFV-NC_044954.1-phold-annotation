@@ -1,0 +1,119 @@
+search phold-NC_044954.1-coding-table-1/foldseek_db/phold /home/pkruczkiewicz/miniconda3/envs/phold/lib/python3.10/site-packages/phold/database/all_phold_structures phold-NC_044954.1-coding-table-1/result_db/result_db phold-NC_044954.1-coding-table-1/temp_db --threads 16 -e 0.001 -s 9.5 --max-seqs 1000 
+
+MMseqs Version:              	8.ef4e960
+Seq. id. threshold           	0
+Coverage threshold           	0
+Coverage mode                	0
+Max reject                   	2147483647
+Max accept                   	2147483647
+Add backtrace                	false
+TMscore threshold            	0
+TMalign hit order            	0
+TMalign fast                 	1
+Preload mode                 	0
+Threads                      	16
+Verbosity                    	3
+LDDT threshold               	0
+Sort by structure bit score  	1
+Alignment type               	2
+Substitution matrix          	aa:3di.out,nucl:3di.out
+Alignment mode               	3
+Alignment mode               	0
+E-value threshold            	0.001
+Min alignment length         	0
+Seq. id. mode                	0
+Alternative alignments       	0
+Max sequence length          	65535
+Compositional bias           	1
+Compositional bias           	1
+Gap open cost                	aa:10,nucl:10
+Gap extension cost           	aa:1,nucl:1
+Compressed                   	0
+Seed substitution matrix     	aa:3di.out,nucl:3di.out
+Sensitivity                  	9.5
+k-mer length                 	0
+Target search mode           	0
+k-score                      	seq:2147483647,prof:2147483647
+Max results per query        	1000
+Split database               	0
+Split mode                   	2
+Split memory limit           	0
+Diagonal scoring             	true
+Exact k-mer matching         	0
+Mask residues                	0
+Mask residues probability    	0.99995
+Mask lower case residues     	1
+Minimum diagonal score       	30
+Selected taxa                	
+Spaced k-mers                	1
+Spaced k-mer pattern         	
+Local temporary path         	
+Exhaustive search mode       	false
+Prefilter mode               	0
+Search iterations            	1
+Remove temporary files       	true
+MPI runner                   	
+Force restart with latest tmp	false
+Cluster search               	0
+
+prefilter phold-NC_044954.1-coding-table-1/foldseek_db/phold_ss /home/pkruczkiewicz/miniconda3/envs/phold/lib/python3.10/site-packages/phold/database/all_phold_structures_ss phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/pref --sub-mat 'aa:3di.out,nucl:3di.out' --seed-sub-mat 'aa:3di.out,nucl:3di.out' -s 9.5 -k 0 --target-search-mode 0 --k-score seq:2147483647,prof:2147483647 --alph-size aa:21,nucl:5 --max-seq-len 65535 --max-seqs 1000 --split 0 --split-mode 2 --split-memory-limit 0 -c 0 --cov-mode 0 --comp-bias-corr 1 --comp-bias-corr-scale 0.15 --diag-score 1 --exact-kmer-matching 0 --mask 0 --mask-prob 0.99995 --mask-lower-case 1 --min-ungapped-score 30 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --threads 16 --compressed 0 -v 3 
+
+Query database size: 168 type: Aminoacid
+Estimated memory consumption: 3G
+Target database size: 803244 type: Aminoacid
+Index table k-mer threshold: 78 at k-mer size 6 
+Index table: counting k-mers
+[=================================================================] 803.24K 1s 993ms
+Index table: Masked residues: 0
+Index table: fill
+[=================================================================] 803.24K 2s 131ms
+Index statistics
+Entries:          201394985
+DB size:          1640 MB
+Avg k-mer size:   3.146797
+Top 10 k-mers
+    VVLVVV	257749
+    LVLVVV	250244
+    SVSVVV	242031
+    SVVVVV	234903
+    DPVVVV	193397
+    LVVVVV	189337
+    NVSVVV	145973
+    DDVVVV	144066
+    CVVVVV	132050
+    VCVVVV	124110
+Time for index table init: 0h 0m 5s 306ms
+Process prefiltering step 1 of 1
+
+k-mer similarity threshold: 78
+Starting prefiltering scores calculation (step 1 of 1)
+Query db start 1 to 168
+Target db start 1 to 803244
+[=================================================================] 168 21s 242ms
+
+1987.906817 k-mers per position
+37345439 DB matches per sequence
+158 overflows
+976 sequences passed prefiltering per query sequence
+1000 median result list length
+4 sequences with 0 size result lists
+Time for merging to pref: 0h 0m 0s 0ms
+Time for processing: 0h 0m 31s 15ms
+structurealign phold-NC_044954.1-coding-table-1/foldseek_db/phold /home/pkruczkiewicz/miniconda3/envs/phold/lib/python3.10/site-packages/phold/database/all_phold_structures phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/pref phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/strualn --tmscore-threshold 0 --lddt-threshold 0 --sort-by-structure-bits 1 --alignment-type 2 --sub-mat 'aa:3di.out,nucl:3di.out' -a 0 --alignment-mode 3 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 16 --compressed 0 -v 3 
+
+Cannot find phold C-alpha or all_phold_structures C-alpha database
+Disabling --sort-by-structure-bits
+This impacts the final score and ranking of hits, but not E-values themselves. Ranking alterations primarily occur for E-values < 10^-1.
+[=================================================================] 168 1s 711ms
+Time for merging to strualn: 0h 0m 0s 0ms
+Time for processing: 0h 0m 2s 731ms
+mvdb phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/strualn phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/aln 
+
+Time for processing: 0h 0m 0s 1ms
+mvdb phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/aln phold-NC_044954.1-coding-table-1/result_db/result_db -v 3 
+
+Time for processing: 0h 0m 0s 0ms
+Removing temporary files
+rmdb phold-NC_044954.1-coding-table-1/temp_db/7971428557857665017/pref -v 3 
+
+Time for processing: 0h 0m 0s 1ms

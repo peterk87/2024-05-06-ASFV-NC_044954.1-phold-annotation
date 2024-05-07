@@ -1,0 +1,1 @@
+Command line: foldseek search phold-NC_044954.1-coding-table-1/foldseek_db/phold /home/pkruczkiewicz/miniconda3/envs/phold/lib/python3.10/site-packages/phold/database/all_phold_structures phold-NC_044954.1-coding-table-1/result_db/result_db phold-NC_044954.1-coding-table-1/temp_db --threads 16 -e 0.001 -s 9.5 --max-seqs 1000

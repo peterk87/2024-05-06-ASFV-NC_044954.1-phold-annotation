@@ -1,0 +1,61 @@
+2024-05-07 11:57:46.383 | INFO     | __main__:main:95 - Starting Pharokka v1.7.1
+2024-05-07 11:57:46.383 | INFO     | __main__:main:96 - Command executed: Namespace(infile='NC_044954.1.fasta', outdir='pharokka-NC_044954.1-coding-table-1', database='../pharokka-db/', threads='16', force=False, prefix='Default', locustag='Default', gene_predictor='prodigal', meta=False, split=False, coding_table='1', evalue='1E-05', fast=True, mmseqs2_only=False, meta_hmm=False, dnaapler=False, custom_hmm='', genbank=False, terminase=False, terminase_strand='nothing', terminase_start='nothing', skip_extra_annotations=False, skip_mash=False, minced_args='', mash_distance=0.2, citation=False)
+2024-05-07 11:57:46.383 | INFO     | __main__:main:97 - Repository homepage is https://github.com/gbouras13/pharokka
+2024-05-07 11:57:46.383 | INFO     | __main__:main:98 - Written by George Bouras: george.bouras@adelaide.edu.au
+2024-05-07 11:57:46.383 | INFO     | __main__:main:100 - Checking database installation in ../pharokka-db/.
+2024-05-07 11:57:46.383 | INFO     | __main__:main:103 - All databases have been successfully checked.
+2024-05-07 11:57:46.383 | INFO     | __main__:main:119 - Checking dependencies.
+2024-05-07 11:57:46.486 | INFO     | input_commands:check_dependencies:379 - Phanotate version found is v1.5.1
+2024-05-07 11:57:46.486 | INFO     | input_commands:check_dependencies:388 - Phanotate version is ok.
+2024-05-07 11:57:46.488 | INFO     | input_commands:check_dependencies:410 - MMseqs2 version found is v13.45111
+2024-05-07 11:57:46.488 | INFO     | input_commands:check_dependencies:419 - MMseqs2 version is ok.
+2024-05-07 11:57:46.542 | INFO     | input_commands:check_dependencies:443 - tRNAscan-SE version found is v2.0.12
+2024-05-07 11:57:46.542 | INFO     | input_commands:check_dependencies:454 - tRNAscan-SE version is ok.
+2024-05-07 11:57:46.581 | INFO     | input_commands:check_dependencies:478 - MinCED version found is v0.4.2
+2024-05-07 11:57:46.581 | INFO     | input_commands:check_dependencies:489 - MinCED version is ok.
+2024-05-07 11:57:46.582 | INFO     | input_commands:check_dependencies:515 - ARAGORN version found is v1.2.41
+2024-05-07 11:57:46.582 | INFO     | input_commands:check_dependencies:526 - ARAGORN version is ok.
+2024-05-07 11:57:46.587 | INFO     | input_commands:check_dependencies:543 - mash version found is v2.3
+2024-05-07 11:57:46.587 | INFO     | input_commands:check_dependencies:550 - mash version is ok.
+2024-05-07 11:57:47.190 | INFO     | input_commands:check_dependencies:569 - Dnaapler version found is v0.7.0
+2024-05-07 11:57:47.190 | INFO     | input_commands:check_dependencies:576 - Dnaapler version is ok.
+2024-05-07 11:57:47.190 | INFO     | input_commands:check_dependencies:588 - Pyrodigal version is v3.3.0
+2024-05-07 11:57:47.190 | INFO     | input_commands:check_dependencies:589 - Pyrodigal version is ok.
+2024-05-07 11:57:47.190 | INFO     | input_commands:check_dependencies:601 - Pyrodigal_gv version is v0.3.1
+2024-05-07 11:57:47.191 | INFO     | input_commands:check_dependencies:602 - Pyrodigal_gv version is ok.
+2024-05-07 11:57:47.194 | INFO     | input_commands:validate_fasta:230 - Checking input NC_044954.1.fasta.
+2024-05-07 11:57:47.194 | INFO     | input_commands:validate_fasta:232 - Input NC_044954.1.fasta is in FASTA format.
+2024-05-07 11:57:47.195 | INFO     | input_commands:validate_fasta:237 - Checking input NC_044954.1.fasta for duplicate FASTA headers.
+2024-05-07 11:57:47.195 | INFO     | input_commands:validate_fasta:239 - All headers in NC_044954.1.fasta are unique.
+2024-05-07 11:57:47.195 | INFO     | input_commands:validate_gene_predictor:266 - Prodigal implemented with pyrodigal will be used for gene prediction.
+2024-05-07 11:57:47.196 | INFO     | __main__:main:255 - You have specified --fast or --hmm_only. MMseqs2 will not be run.
+2024-05-07 11:57:47.196 | INFO     | __main__:main:289 - Implementing Prodigal using Pyrodigal.
+2024-05-07 11:57:47.322 | INFO     | __main__:main:309 - Starting tRNA-scanSE.
+2024-05-07 11:57:47.323 | INFO     | external_tools:run:50 - Started running tRNAscan-SE --thread 16 -G -Q -j pharokka-NC_044954.1-coding-table-1/trnascan_out.gff NC_044954.1.fasta ...
+2024-05-07 11:57:47.510 | INFO     | external_tools:run:52 - Done running tRNAscan-SE --thread 16 -G -Q -j pharokka-NC_044954.1-coding-table-1/trnascan_out.gff NC_044954.1.fasta
+2024-05-07 11:57:47.510 | INFO     | processes:run_minced:822 - Running MinCED.
+2024-05-07 11:57:47.511 | INFO     | external_tools:run:50 - Started running minced NC_044954.1.fasta pharokka-NC_044954.1-coding-table-1/pharokka_minced_spacers.txt pharokka-NC_044954.1-coding-table-1/pharokka_minced.gff ...
+2024-05-07 11:57:47.615 | INFO     | external_tools:run:52 - Done running minced NC_044954.1.fasta pharokka-NC_044954.1-coding-table-1/pharokka_minced_spacers.txt pharokka-NC_044954.1-coding-table-1/pharokka_minced.gff
+2024-05-07 11:57:47.615 | INFO     | processes:run_aragorn:854 - Running Aragorn.
+2024-05-07 11:57:47.616 | INFO     | external_tools:run:50 - Started running aragorn -l -gcbact -w -m -o pharokka-NC_044954.1-coding-table-1/pharokka_aragorn.txt NC_044954.1.fasta ...
+2024-05-07 11:57:47.646 | INFO     | external_tools:run:52 - Done running aragorn -l -gcbact -w -m -o pharokka-NC_044954.1-coding-table-1/pharokka_aragorn.txt NC_044954.1.fasta
+2024-05-07 11:57:47.646 | INFO     | __main__:main:348 - Running PyHMMER on PHROGs.
+2024-05-07 11:57:58.168 | INFO     | __main__:main:364 - Post Processing Output.
+2024-05-07 11:57:58.261 | INFO     | post_processing:process_vfdb_results:2351 - Processing VFDB output.
+2024-05-07 11:57:58.289 | INFO     | post_processing:process_vfdb_results:2437 - 0 VFDB virulence factors identified.
+2024-05-07 11:57:58.290 | INFO     | post_processing:process_card_results:2455 - Processing CARD output.
+2024-05-07 11:57:58.297 | INFO     | post_processing:process_card_results:2578 - 0 CARD AMR genes identified.
+2024-05-07 11:57:58.343 | INFO     | __main__:main:435 - Converting gff to genbank.
+2024-05-07 11:57:58.385 | INFO     | __main__:main:453 - Finding the closest match for each contig in INPHARED using mash.
+2024-05-07 11:57:58.386 | INFO     | external_tools:run:50 - Started running mash sketch NC_044954.1.fasta -o pharokka-NC_044954.1-coding-table-1/input_mash_sketch.msh -i ...
+2024-05-07 11:57:58.409 | INFO     | external_tools:run:52 - Done running mash sketch NC_044954.1.fasta -o pharokka-NC_044954.1-coding-table-1/input_mash_sketch.msh -i
+2024-05-07 11:57:58.409 | INFO     | external_tools:run_to_stdout:59 - Started running mash dist pharokka-NC_044954.1-coding-table-1/input_mash_sketch.msh ../pharokka-db/1Aug2023_genomes.fa.msh -d 0.2 -i ...
+2024-05-07 11:57:58.820 | INFO     | external_tools:run_to_stdout:61 - Done running mash dist pharokka-NC_044954.1-coding-table-1/input_mash_sketch.msh ../pharokka-db/1Aug2023_genomes.fa.msh -d 0.2 -i
+2024-05-07 11:57:58.914 | INFO     | __main__:main:473 - Pharokka has finished.
+2024-05-07 11:57:58.915 | INFO     | __main__:main:474 - Elapsed time: 12.53 seconds
+2024-05-07 11:57:58.915 | INFO     | __main__:main:476 - If you use Pharokka in your research, please cite:
+2024-05-07 11:57:58.915 | INFO     | __main__:main:477 - George Bouras, Roshan Nepal, Ghais Houtak, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde.
+2024-05-07 11:57:58.915 | INFO     | __main__:main:480 - Pharokka: a fast scalable bacteriophage annotation tool.
+2024-05-07 11:57:58.915 | INFO     | __main__:main:481 - Bioinformatics, Volume 39, Issue 1, January 2023, btac776.
+2024-05-07 11:57:58.916 | INFO     | __main__:main:482 - https://doi.org/10.1093/bioinformatics/btac776.
+2024-05-07 11:57:58.916 | INFO     | __main__:main:483 - You should also cite the full list of tools Pharokka uses, which can be found at https://github.com/gbouras13/pharokka#citation.

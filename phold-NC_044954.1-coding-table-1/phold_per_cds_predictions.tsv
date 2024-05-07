@@ -1,0 +1,169 @@
+contig_id	cds_id	start	end	strand	phrog	function	product	annotation_method	transl_table	bitscore	fident	evalue	qStart	qEnd	qLen	tStart	tEnd	tLen	tophit_protein	function_with_highest_bitscore_proportion	top_bitscore_proportion_not_unknown	head_and_packaging_bitscore_proportion	integration_and_excision_bitscore_proportion	tail_bitscore_proportion	moron_auxiliary_metabolic_gene_and_host_takeover_bitscore_proportion	DNA_RNA_and_nucleotide_metabolism_bitscore_proportion	connector_bitscore_proportion	transcription_regulation_bitscore_proportion	lysis_bitscore_proportion	other_bitscore_proportion	unknown_function_bitscore_proportion
+NC_044954.1	CBXRCNVH_CDS_0001	2	73	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0002	753	890	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0003	1020	1163	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0004	2455	1532	-	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	271.0	0.158	7.266e-04	16.0	279.0	308.0	3.0	256.0	1000.0	envhog_protein1144422_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0005	2777	3295	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0006	3655	3404	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0007	4022	3741	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0008	5313	4246	-	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	303.0	0.135	4.626e-04	64.0	317.0	356.0	3.0	247.0	1000.0	envhog_protein1144422_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0009	6348	5539	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0010	6861	6511	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0011	7334	6960	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0012	7878	7516	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0013	8483	8127	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0014	9111	8734	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0015	10239	9865	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0016	10474	10854	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0017	11874	11014	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0018	12584	12069	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0019	13141	12668	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0020	13488	13105	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0021	14881	13721	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0022	16605	15478	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0023	17436	17681	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0024	18733	17927	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0025	19643	19873	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0026	19899	20126	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0027	21237	20242	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0028	22372	21413	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0029	23685	22624	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0030	24802	23735	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0031	25892	24831	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0032	26041	27633	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	383.0	0.114	7.150e-05	45.0	402.0	531.0	55.0	558.0	1000.0	envhog_protein1144422_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0033	28731	27682	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0034	29980	28919	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0035	31266	30193	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0036	31541	33115	+	959	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	1	342.0	0.115	2.385e-04	37.0	418.0	525.0	146.0	549.0	576.0	envhog_protein269905	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0037	33208	34044	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0038	34130	34321	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0039	34322	35842	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	345.0	0.112	2.677e-04	52.0	485.0	507.0	64.0	644.0	1000.0	envhog_protein1144422_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0040	35871	37379	+	959	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	1	349.0	0.113	2.660e-04	3.0	415.0	503.0	234.0	550.0	576.0	envhog_protein269905	DNA, RNA and nucleotide metabolism	0.509	0.0	0.0	0.491	0.0	0.509	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0041	37567	39153	+	9483	tail	tail length tape measure protein	foldseek	1	355.0	0.107	2.046e-04	3.0	523.0	529.0	387.0	870.0	1000.0	envhog_protein2179216_2	tail	0.525	0.0	0.0	0.525	0.0	0.475	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0042	39560	41080	+	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	367.0	0.125	1.416e-04	55.0	397.0	507.0	66.0	560.0	1000.0	envhog_protein1144422_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0043	41743	43374	+	9483	tail	tail length tape measure protein	foldseek	1	367.0	0.1	1.031e-04	3.0	527.0	544.0	387.0	871.0	1000.0	envhog_protein2179216_2	tail	0.359	0.325	0.0	0.359	0.0	0.316	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0044	44179	43505	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0045	44540	44854	+	379	DNA, RNA and nucleotide metabolism	DNA binding protein	foldseek	1	384.0	0.49	1.352e-08	0.0	103.0	105.0	11.0	114.0	117.0	envhog_protein880580	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0046	45462	44851	-	761	other	thymidylate kinase	foldseek	1	922.0	0.837	5.060e-21	0.0	202.0	204.0	36.0	235.0	236.0	envhog_protein1346330	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0047	45574	45449	-	761	other	thymidylate kinase	pharokka	1																						
+NC_044954.1	CBXRCNVH_CDS_0048	45924	46376	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0049	46872	47687	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0050	48829	48110	-	2361	other	serine-threonine kinase	foldseek	1	265.0	0.121	9.312e-04	0.0	186.0	240.0	22.0	245.0	791.0	envhog_protein1558633	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0051	51452	48873	-	16	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	1230.0	0.166	1.565e-27	1.0	686.0	860.0	9.0	641.0	644.0	envhog_protein1469255	DNA, RNA and nucleotide metabolism	0.993	0.0	0.0	0.0	0.005	0.993	0.0	0.0	0.0	0.001	0.0
+NC_044954.1	CBXRCNVH_CDS_0052	51993	51454	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0053	52316	52729	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0054	53746	52790	-	4211	tail	tail length tape measure protein	foldseek	1	294.0	0.109	8.293e-06	19.0	276.0	319.0	1.0	229.0	936.0	envhog_protein1232915_3	tail	0.454	0.138	0.0	0.454	0.0	0.0	0.0	0.0	0.0	0.408	0.0
+NC_044954.1	CBXRCNVH_CDS_0055	54759	53776	-	86	DNA, RNA and nucleotide metabolism	ribonucleoside diphosphate reductase small subunit	foldseek	1	1195.0	0.433	3.101e-20	2.0	322.0	328.0	14.0	331.0	332.0	envhog_protein2189678	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0056	54801	57140	+	84	DNA, RNA and nucleotide metabolism	ribonucleoside-diphosphate reductase large subunit	foldseek	1	3252.0	0.426	9.854e-65	1.0	766.0	780.0	24.0	760.0	785.0	envhog_protein2062995	DNA, RNA and nucleotide metabolism	0.984	0.0	0.0	0.0	0.016	0.984	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0057	57260	57670	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0058	60965	57657	-	4913	DNA, RNA and nucleotide metabolism	replication	foldseek	1	3477.0	0.447	3.612e-79	20.0	977.0	1103.0	21.0	998.0	1000.0	envhog_protein170983_1	DNA, RNA and nucleotide metabolism	0.993	0.0	0.0	0.0	0.004	0.993	0.0	0.0	0.0	0.003	0.0
+NC_044954.1	CBXRCNVH_CDS_0059	61117	61746	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0060	61836	62057	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0061	62054	62620	+	592	other	thymidine kinase	foldseek	1	693.0	0.296	8.459e-17	8.0	188.0	189.0	18.0	201.0	202.0	envhog_protein2199168	other	0.971	0.002	0.0	0.0	0.0	0.026	0.0	0.0	0.0	0.971	0.0
+NC_044954.1	CBXRCNVH_CDS_0062	62661	63098	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0063	63132	64394	+	defensefinder	moron, auxiliary metabolic gene and host takeover	DefenseFinder protein	foldseek	1	277.0	0.106	1.734e-04	205.0	403.0	421.0	26.0	245.0	298.0	AbiE_36	moron, auxiliary metabolic gene and host takeover	1.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0064	68161	64433	-	card	moron, auxiliary metabolic gene and host takeover	CARD resistance protein	foldseek	1	1856.0	0.148	4.124e-37	7.0	1235.0	1243.0	0.0	1123.0	1162.0	BAD59497.1	DNA, RNA and nucleotide metabolism	0.91	0.0	0.0	0.009	0.081	0.91	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0065	68240	68491	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0066	68527	69801	+	4752	other	tRNA methyltransferase	foldseek	1	789.0	0.212	1.545e-17	18.0	424.0	425.0	25.0	390.0	696.0	envhog_protein2155092	other	0.799	0.0	0.0	0.0	0.0	0.201	0.0	0.0	0.0	0.799	0.0
+NC_044954.1	CBXRCNVH_CDS_0067	70312	70767	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0068	70776	71261	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0069	71331	72458	+	372	tail	tail protein	foldseek	1	259.0	0.079	3.062e-04	16.0	187.0	376.0	397.0	586.0	782.0	envhog_protein2026160	tail	0.508	0.492	0.0	0.508	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0070	72536	73687	+	3490	DNA, RNA and nucleotide metabolism	ERCC4-type nuclease	foldseek	1	1197.0	0.501	3.190e-27	0.0	299.0	384.0	0.0	316.0	321.0	envhog_protein859724	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0071	77489	73740	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0072	77529	78869	+	562	tail	RNA ligase and tail fiber protein attachment catalyst	foldseek	1	626.0	0.168	1.053e-13	0.0	445.0	447.0	0.0	373.0	384.0	envhog_protein892074	tail	0.835	0.0	0.0	0.835	0.0	0.165	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0073	78944	79333	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0074	79619	79389	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0075	80063	82216	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0076	83779	83006	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0077	85185	83758	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0078	85237	86184	+	20431	unknown function	hypothetical protein	foldseek	1	523.0	0.136	2.384e-09	14.0	293.0	316.0	14.0	304.0	306.0	protein322543	unknown function	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0079	86675	86220	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0080	86746	87060	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0081	87103	89991	+	1156	DNA, RNA and nucleotide metabolism	DNA primase	foldseek	1	3526.0	0.453	7.930e-72	24.0	926.0	963.0	32.0	967.0	1000.0	envhog_protein822307_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0082	90100	89942	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0083	93026	90135	-	6819	DNA, RNA and nucleotide metabolism	Holliday junction branch migration helicase	foldseek	1	2648.0	0.456	2.358e-55	23.0	755.0	964.0	52.0	778.0	782.0	envhog_protein210685	DNA, RNA and nucleotide metabolism	0.889	0.0	0.0	0.0	0.0	0.889	0.0	0.0	0.0	0.111	0.0
+NC_044954.1	CBXRCNVH_CDS_0084	93345	92986	-	32547	head and packaging	virion structural protein	foldseek	1	298.0	0.362	8.258e-06	3.0	102.0	120.0	38.0	139.0	176.0	envhog_protein1055278	head and packaging	0.775	0.775	0.0	0.0	0.0	0.225	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0085	94282	93326	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0086	95562	94249	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0087	96078	95575	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0088	97555	96095	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0089	98797	97733	-	2666	head and packaging	terminase large subunit	foldseek	1	1050.0	0.382	1.088e-22	1.0	348.0	355.0	11.0	362.0	366.0	envhog_protein1134067	head and packaging	0.784	0.784	0.0	0.0	0.192	0.019	0.0	0.0	0.0	0.006	0.0
+NC_044954.1	CBXRCNVH_CDS_0090	100652	98808	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0091	100707	101864	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0092	103897	101957	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0093	103937	104314	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0094	104649	104287	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0095	105921	104656	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0096	106477	105950	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0097	106524	107315	+	149	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	1	532.0	0.145	8.490e-11	3.0	256.0	264.0	1.0	263.0	589.0	envhog_protein1918642	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0098	107512	107312	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0099	111540	107518	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0100	111647	115267	+	262	DNA, RNA and nucleotide metabolism	DNA polymerase	foldseek	1	3958.0	0.452	7.130e-90	10.0	909.0	1207.0	27.0	999.0	1000.0	envhog_protein1080114_1	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0101	115635	115264	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0102	123165	115738	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0103	123839	123267	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0104	123900	125492	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0105	125495	125737	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0106	125777	126715	+	24527	head and packaging	virion structural protein	foldseek	1	253.0	0.126	1.151e-04	36.0	298.0	313.0	12.0	190.0	286.0	envhog_protein822211	head and packaging	0.532	0.532	0.0	0.0	0.0	0.468	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0107	127260	126736	-	114	DNA, RNA and nucleotide metabolism	ATP-dependent DNA ligase	foldseek	1	526.0	0.243	1.896e-12	1.0	173.0	175.0	461.0	632.0	633.0	envhog_protein7443	DNA, RNA and nucleotide metabolism	0.773	0.0	0.0	0.0	0.0	0.773	0.0	0.0	0.0	0.227	0.0
+NC_044954.1	CBXRCNVH_CDS_0108	127310	127498	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0109	131939	127587	-	2986	DNA, RNA and nucleotide metabolism	RNA polymerase beta subunit	foldseek	1	944.0	0.145	1.193e-16	1.0	853.0	1451.0	3.0	855.0	934.0	envhog_protein279095	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0110	133290	132031	-	114	DNA, RNA and nucleotide metabolism	ATP-dependent DNA ligase	foldseek	1	1407.0	0.416	1.019e-32	12.0	410.0	420.0	24.0	450.0	453.0	envhog_protein1947644	DNA, RNA and nucleotide metabolism	0.993	0.004	0.0	0.0	0.0	0.993	0.0	0.0	0.0	0.003	0.0
+NC_044954.1	CBXRCNVH_CDS_0111	133356	135962	+	4752	other	tRNA methyltransferase	foldseek	1	3042.0	0.397	4.243e-67	2.0	868.0	869.0	4.0	869.0	870.0	envhog_protein337154	other	0.882	0.005	0.0	0.002	0.015	0.096	0.0	0.0	0.0	0.882	0.0
+NC_044954.1	CBXRCNVH_CDS_0112	136030	136770	+	1185	other	nudix hydrolase	foldseek	1	882.0	0.475	1.512e-20	0.0	242.0	247.0	14.0	250.0	256.0	envhog_protein1148989	other	0.972	0.016	0.0	0.0	0.0	0.012	0.0	0.0	0.0	0.972	0.0
+NC_044954.1	CBXRCNVH_CDS_0113	137404	136952	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0114	137752	137513	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0115	138951	137944	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0116	142383	139087	-	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	2337.0	0.375	5.118e-53	26.0	966.0	1099.0	44.0	999.0	1000.0	envhog_protein540347_1	DNA, RNA and nucleotide metabolism	0.953	0.0	0.0	0.001	0.035	0.953	0.0	0.0	0.0	0.011	0.0
+NC_044954.1	CBXRCNVH_CDS_0117	143075	142722	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0118	143132	143749	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0119	144939	143902	-	149	DNA, RNA and nucleotide metabolism	exonuclease	foldseek	1	997.0	0.322	2.058e-23	7.0	337.0	346.0	21.0	377.0	387.0	envhog_protein531094	DNA, RNA and nucleotide metabolism	0.993	0.007	0.0	0.0	0.0	0.993	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0120	145490	144939	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0121	145547	146368	+	56	other	DNA methyltransferase	foldseek	1	266.0	0.124	5.442e-05	69.0	254.0	274.0	194.0	363.0	387.0	envhog_protein969104_2	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0122	146403	149981	+	543	DNA, RNA and nucleotide metabolism	DNA topoisomerase II large subunit	foldseek	1	4175.0	0.43	2.537e-84	3.0	989.0	1193.0	12.0	994.0	1000.0	envhog_protein836534_1	DNA, RNA and nucleotide metabolism	0.792	0.0	0.0	0.0	0.002	0.792	0.0	0.0	0.206	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0123	151095	150016	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0124	151130	151657	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0125	151689	152063	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0126	152086	153105	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0127	153117	153452	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0128	153412	154113	+	34859	moron, auxiliary metabolic gene and host takeover	glycosyltransferase	foldseek	1	433.0	0.146	4.033e-10	1.0	231.0	234.0	13.0	241.0	257.0	envhog_protein1379382	moron, auxiliary metabolic gene and host takeover	0.875	0.0	0.0	0.0	0.875	0.004	0.0	0.0	0.0	0.121	0.0
+NC_044954.1	CBXRCNVH_CDS_0129	154267	154992	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0130	155884	154985	-	2361	other	serine-threonine kinase	foldseek	1	1835.0	0.909	2.870e-41	0.0	297.0	300.0	0.0	296.0	298.0	envhog_protein1485551	other	0.948	0.005	0.0	0.003	0.043	0.002	0.0	0.0	0.0	0.948	0.0
+NC_044954.1	CBXRCNVH_CDS_0131	157979	155859	-	62	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	2816.0	0.493	2.181e-60	0.0	705.0	707.0	0.0	699.0	700.0	envhog_protein1698210	DNA, RNA and nucleotide metabolism	0.964	0.003	0.0	0.0	0.026	0.964	0.0	0.0	0.0	0.007	0.0
+NC_044954.1	CBXRCNVH_CDS_0132	159466	157937	-	16	DNA, RNA and nucleotide metabolism	DNA helicase	foldseek	1	1713.0	0.41	7.004e-42	1.0	472.0	510.0	2.0	490.0	504.0	envhog_protein1201455	DNA, RNA and nucleotide metabolism	0.986	0.002	0.0	0.0	0.01	0.986	0.0	0.0	0.0	0.003	0.0
+NC_044954.1	CBXRCNVH_CDS_0133	159582	160586	+	defensefinder	moron, auxiliary metabolic gene and host takeover	DefenseFinder protein	foldseek	1	715.0	0.189	1.324e-16	9.0	318.0	335.0	80.0	394.0	395.0	Dnd_ABCDE_474	other	0.525	0.0	0.0	0.0	0.475	0.0	0.0	0.0	0.0	0.525	0.0
+NC_044954.1	CBXRCNVH_CDS_0134	161088	160534	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0135	161662	161132	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0136	161693	162964	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0137	163109	164014	+	947	DNA, RNA and nucleotide metabolism	DNA polymerase processivity factor	foldseek	1	703.0	0.109	2.277e-14	13.0	300.0	302.0	3.0	263.0	271.0	envhog_protein1636031	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0138	164495	164055	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0139	165617	165018	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0140	165645	166133	+	135	DNA, RNA and nucleotide metabolism	dUTPase	foldseek	1	528.0	0.345	5.397e-11	0.0	161.0	163.0	38.0	194.0	207.0	envhog_protein1886894	DNA, RNA and nucleotide metabolism	0.996	0.0	0.0	0.0	0.0	0.996	0.0	0.0	0.0	0.004	0.0
+NC_044954.1	CBXRCNVH_CDS_0141	166164	166874	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0142	166948	167316	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0143	167345	168235	+	8420	DNA, RNA and nucleotide metabolism	endonuclease	foldseek	1	303.0	0.101	8.166e-06	2.0	295.0	297.0	19.0	317.0	324.0	protein473769	tail	0.28	0.265	0.0	0.28	0.0	0.171	0.0	0.0	0.14	0.144	0.0
+NC_044954.1	CBXRCNVH_CDS_0144	168238	168573	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0145	169690	168887	-	18891	tail	tail length tape measure protein	foldseek	1	254.0	0.115	1.398e-04	1.0	265.0	268.0	275.0	523.0	1000.0	envhog_protein883159_1	tail	1.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0146	169842	170522	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0147	171244	170519	-	20988	other	ATPase	foldseek	1	422.0	0.281	5.747e-08	66.0	241.0	242.0	306.0	486.0	487.0	envhog_protein1398418	other	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0148	172990	172001	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0149	174090	173449	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0150	174730	174245	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0151	175388	174723	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0152	176298	175549	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0153	176471	177529	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0154	179239	177611	-	959	DNA, RNA and nucleotide metabolism	HNH endonuclease	foldseek	1	346.0	0.105	2.322e-04	32.0	530.0	543.0	160.0	554.0	576.0	envhog_protein269905	DNA, RNA and nucleotide metabolism	1.0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+NC_044954.1	CBXRCNVH_CDS_0155	179786	179361	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0156	180468	180025	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0157	180889	180581	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0158	181417	181106	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0159	181644	181940	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0160	182474	181974	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0161	182802	182566	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0162	183148	183393	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0163	183624	184346	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0164	184877	184323	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0165	185124	186197	+	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0166	186593	186450	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0167	186860	186723	-	No_PHROG	unknown function	hypothetical protein	none	1																						
+NC_044954.1	CBXRCNVH_CDS_0168	187611	187540	-	No_PHROG	unknown function	hypothetical protein	none	1																						

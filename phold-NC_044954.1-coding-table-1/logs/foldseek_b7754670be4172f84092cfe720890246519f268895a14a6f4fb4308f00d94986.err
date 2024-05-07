@@ -1,0 +1,1 @@
+Command line: foldseek tsv2db phold-NC_044954.1-coding-table-1/foldseek_db/aa.tsv phold-NC_044954.1-coding-table-1/foldseek_db/phold --output-dbtype 0
